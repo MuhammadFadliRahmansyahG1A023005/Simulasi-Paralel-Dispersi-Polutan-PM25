@@ -1,0 +1,5 @@
+t_serial,t_parallel,workers,speedup,efficiency_pct,method,num_cells,grid_size
+11.8938,12.7007,1,0.94,93.6,ProcessPoolExecutor,24,450x450
+11.8938,9.5984,2,1.24,62.0,ProcessPoolExecutor,24,450x450
+11.8938,9.6866,4,1.23,30.7,ProcessPoolExecutor,24,450x450
+11.8938,13.0168,8,0.91,11.4,ProcessPoolExecutor,24,450x450
